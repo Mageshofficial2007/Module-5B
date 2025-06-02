@@ -26,3 +26,4 @@ print(eq)Output
 ![image](https://github.com/user-attachments/assets/0e6ffed7-5b77-44a0-9a0b-b47d4280bdd0)
 
 ## Result
+Thus,The program has been executed successfully.
