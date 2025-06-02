@@ -28,3 +28,4 @@ print(np.insert(c,1,b,axis=1))
 ![image](https://github.com/user-attachments/assets/326484f7-5711-413a-8e63-46f167782e38)
 
 ## Result
+Thus,The program has been executed successfully.
