@@ -24,3 +24,4 @@ print(np.sort(arr,axis=0))
 ![image](https://github.com/user-attachments/assets/14924681-2e21-4c83-b25a-0dbd6979433a)
 
 ## Result
+Thus,The program has been executed successfully
